@@ -1,0 +1,6 @@
+{
+  "name": "Lịch Việt 365",
+  "description": "Ứng dụng tra cứu lịch âm dương, đổi ngày hai chiều, ngày lễ và văn hóa phong tục Việt Nam chuẩn xác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
